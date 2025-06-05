@@ -1,6 +1,4 @@
-# AI Code Review Assistant - Setup & Usage Guide
-
-## 🚀 Quick Start
+# CodeSense-AI
 
 ### Prerequisites
 - Python 3.8+
